@@ -1,2 +1,2 @@
 # TheJava_OnlineLecture
-LearnJava
+Learn Java
