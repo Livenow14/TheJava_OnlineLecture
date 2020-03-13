@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cf85ec2-5cae-457d-afc0-a4bda55e343f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/masulsa/example/MasulsaAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Masulsa.JavaAgent-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/masulsa/example/MasulsaAgent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../me.bytecode.example/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../me.bytecode.example/src/main/java/bytecode/example/Moja/Masulsa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../me.bytecode.example/src/main/java/bytecode/example/Moja/Masulsa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z49fniwltm9rA33vhQPYNK49X6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf85ec2-5cae-457d-afc0-a4bda55e343f" name="Default Changelist" comment="" />
+      <created>1584087604546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584087604546</updated>
+      <workItem from="1584087607369" duration="2573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="821" height="432" key="GridCell.Tab.0.bottom" timestamp="1584089799542">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state width="821" height="432" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584089799542" />
+    <state width="821" height="432" key="GridCell.Tab.0.center" timestamp="1584089799542">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state width="821" height="432" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584089799542" />
+    <state width="821" height="432" key="GridCell.Tab.0.left" timestamp="1584089799542">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state width="821" height="432" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584089799542" />
+    <state width="821" height="432" key="GridCell.Tab.0.right" timestamp="1584089799542">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state width="821" height="432" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584089799542" />
+    <state x="2560" y="390" key="SettingsEditor" timestamp="1584087700605">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state x="2560" y="390" key="SettingsEditor/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584087700605" />
+    <state x="2576" y="481" key="Vcs.Push.Dialog.v2" timestamp="1584088830906">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state x="2576" y="481" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584088830906" />
+    <state x="2684" y="479" width="616" height="538" key="find.popup" timestamp="1584089415337">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state x="2684" y="479" width="616" height="538" key="find.popup/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584089415337" />
+    <state x="2649" y="355" width="672" height="677" key="run.anything.popup" timestamp="1584089636366">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state x="2649" y="355" width="672" height="677" key="run.anything.popup/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584089636366" />
+    <state x="2655" y="339" width="672" height="678" key="search.everywhere.popup" timestamp="1584088922452">
+      <screen x="2560" y="0" width="864" height="1496" />
+    </state>
+    <state x="2655" y="339" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/2560.0.864.1496@2560.0.864.1496" timestamp="1584088922452" />
+  </component>
+</project>
